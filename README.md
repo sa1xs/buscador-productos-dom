@@ -22,6 +22,7 @@ Además, actualiza automáticamente el contador de resultados visibles.
 - Contador de resultados actualizado automáticamente
 
 ## Estructura del proyecto
+```bash
 .
 ├── index.html
 ├── style.css
