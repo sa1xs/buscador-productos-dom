@@ -27,3 +27,10 @@ Además, actualiza automáticamente el contador de resultados visibles.
 ├── index.html
 ├── style.css
 └── script.js
+```
+
+## Cómo usar
+
+1. Clonar el repositorio o descargar los archivos
+2. Abrir `index.html` en cualquier navegador
+3. Escribir en el campo de búsqueda para filtrar productos
